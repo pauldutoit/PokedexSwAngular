@@ -1,0 +1,10 @@
+mat-card.mat-card {
+    width: 27%;
+    font-size: smaller;
+    margin:  auto;
+}
+
+:host {
+    display: flex;
+    height: 100%;
+}
